@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "692489763211",
+    "project_id": "flutter-fcm-7e3f3",
+    "storage_bucket": "flutter-fcm-7e3f3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692489763211:android:8143ff3febe2c95800178e",
+        "android_client_info": {
+          "package_name": "com.project.little_eats"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6MQVTswyMs_LHEKcCABniImeHAeXtZpM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
